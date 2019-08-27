@@ -36,6 +36,8 @@ h2 {
 
 img {
   float:right;
-  width: 20%;
+  width: 30%;
   height: auto;
+  display: block;
+  padding: 10px 10px;
 }
