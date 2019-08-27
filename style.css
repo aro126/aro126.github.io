@@ -25,3 +25,7 @@ h2 {
   display: table;
   clear: both;
 }
+
+.content {
+  padding: 5px 10%;
+}
