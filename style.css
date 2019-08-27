@@ -1,6 +1,27 @@
 body {
-    font: sans-serif;
+  font-family: Arial, sans-serif;
+  padding: 5px 10px;
 }
-h1 {}
-h2 {}
-h3 {}
+
+.header {
+  background: #008888;
+  text-align: center;
+  padding: 5px 10px;
+  color:  white;
+}
+
+h2 {
+  text-align: center;
+  color: #008888;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
