@@ -33,3 +33,9 @@ h2 {
 .courses {
   text-align: center;
 }
+
+img {
+  float:right;
+  width: 20%;
+  height: auto;
+}
