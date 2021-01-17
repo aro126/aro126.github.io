@@ -37,6 +37,11 @@ h2 {
     margin-right: 2%;
 }
 
+.txtdesc img {
+    width: 1em;
+    height: 1em;
+}
+
 .edu {
     display: flex;
 }
