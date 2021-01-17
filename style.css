@@ -36,7 +36,6 @@ h2 {
 }
 
 .txtdesc {
-    min-width: 75%;
     margin-right: 2%;
 }
 
@@ -51,10 +50,6 @@ h2 {
     margin-top: 1.5em;
     width: 10%;
     min-height: 100px;
-}
-
-.edutxt {
-    min-width: 90%;
 }
 
 .workdesc {
@@ -75,10 +70,6 @@ h2 {
     min-height: 100px;
 }
 
-.amztxt {
-    min-width: 90%;
-}
-
 .gt {
     display: flex;
 }
@@ -90,10 +81,6 @@ h2 {
     margin-top: 1.5em;
     width: 10%;
     min-height: 100px;
-}
-
-.gttxt {
-    min-width: 90%;
 }
 
 .skills {
