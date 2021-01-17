@@ -1,43 +1,132 @@
 body {
-  font-family: Arial, sans-serif;
-  padding: 5px 10px;
+    font-family: Arial, sans-serif;
+    padding: 5px 10px;
 }
 
-.header {
-  background: #008888;
-  text-align: center;
-  padding: 5px 10px;
-  color:  white;
+header {
+    background: #008888;
+    text-align: center;
+    padding: 5px 10px;
+    color: white;
 }
 
 h2 {
-  text-align: center;
-  color: #008888;
-}
-
-.column {
-  float: left;
-  width: 33.33%;
-}
-
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
+    text-align: center;
+    color: #008888;
 }
 
 .content {
-  padding: 5px 10%;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
 }
 
-.courses {
-  text-align: center;
+.description {
+    display: flex;
+    flex-direction: row-reverse;
 }
 
-img {
-  float:right;
-  width: 300px;
-  height: 100%;
-  display: block;
-  padding: 10px 10px;
+.description img {
+    min-width: 200px;
+    max-width: 33vw;
+    max-height: 10em;
+    height: auto;
+}
+
+.txtdesc {
+    min-width: 75vw;
+    margin-right: 2vw;
+}
+
+.edu {
+    display: flex;
+}
+
+.edu img {
+    min-width: 100px;
+    max-width: 10vw;
+    margin-right: 2vw;
+    margin-top: 1.5em;
+}
+
+.edutxt {
+    min-width: 90vw;
+}
+
+.workdesc {
+    display: flex;
+    flex-direction: column;
+}
+
+.amz {
+    display: flex;
+}
+
+.amz img {
+    min-width: 100px;
+    max-width: 10vw;
+    margin-right: 2vw;
+    margin-top: 1.5em;
+}
+
+.amztxt {
+    min-width: 90vw;
+}
+
+.gt {
+    display: flex;
+}
+
+.gt img {
+    min-width: 100px;
+    max-width: 10vw;
+    margin-right: 2vw;
+    margin-top: 1.5em;
+}
+
+.gttxt {
+    min-width: 90vw;
+}
+
+.skills {
+    display: flex;
+}
+
+.workskill {
+    width: 37vw;
+    margin-right: 3vw;
+    border-right: 1px solid #ddd;
+}
+
+.workcols {
+    display: flex;
+}
+
+.workone,
+.worktwo {
+    width: 40%;
+}
+
+.languages {
+    width: 60vw;
+}
+
+.languages h4 {
+    margin: 0;
+}
+
+.langcols {
+    display: flex;
+}
+
+.langone {
+    width: 35%;
+}
+
+.langtwo {
+    width: 45%;
+}
+
+.langthree {
+    width: 20%;
 }
