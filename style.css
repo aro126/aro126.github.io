@@ -26,6 +26,7 @@ h2 {
 .description {
     display: flex;
     flex-direction: row-reverse;
+    justify-content: space-between;
 }
 
 .description img {
