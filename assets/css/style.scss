@@ -1,4 +1,9 @@
-body {
+---
+---
+
+@import "{{ site.theme }}";
+
+/*body {
     font-family: Arial, sans-serif;
     padding: 5px 10px;
     margin-left: 5%;
@@ -123,3 +128,4 @@ h2 {
 .langthree {
     width: 20%;
 }
+*/
