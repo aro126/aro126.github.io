@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+{% include page-header.html %}
+
 ## About Me
 ### Computer Science major passionate about learning as much as I can as I enter the job field.
 #### Links:
@@ -47,3 +49,5 @@ to spark their interest.
 ## Volunteer Experience
 ### Catalyst | Spring 2019
 I took part in this HackGT (an organization at Georgia Tech dedicated to promoting CS education) event where we invited high school students to campus to learn about what a career in CS can look like. Each student had the chance to pick which 'track' they were interested in. I participated in the design pathway. For this track, we took them through a project which introduced the idea of individual pixels, how they store color values, and how you can manipulate them.
+
+{% include page-footer.html %}
