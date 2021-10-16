@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Amber Ott
+description: Computer Science Major at Georgia Tech
 ---
 
 ## About Me
