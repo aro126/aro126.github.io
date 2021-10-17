@@ -4,6 +4,10 @@ title: Projects
 description: Personal and School Projects
 ---
 
+### [HOME](/index.md) | [PROJECTS](/projects.md)
+
+---
+
 ## Robot Image Training [Machine Learning, Robotics, Computer Vision]
 #### Technologies Used: Python, Anki Cozmo Robot, OpenCV, Scikiy-learn, Numpy
 Used Python Computer Vision libraries to train an Anki Cozmo Robot to recognize specific images and to perform a task corresponding to each one.
