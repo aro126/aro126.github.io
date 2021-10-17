@@ -10,7 +10,7 @@ description: Personal and School Projects
 
 ![Anki Robot](/anki.jpg)
 ## Robot Image Training [Machine Learning, Robotics, Computer Vision]
-#### Technologies Used: Python, Anki Cozmo Robot, OpenCV, Scikiy-learn, Numpy
+#### Technologies Used: Python, Anki Cozmo Robot, OpenCV, Scikit-learn, Numpy
 Used Python Computer Vision libraries to train an Anki Cozmo Robot to recognize specific images and to perform a task corresponding to each one.
 
 ---
