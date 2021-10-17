@@ -13,7 +13,7 @@ description: Computer Science Major at Georgia Tech
 #### Computer Science major passionate about learning as much as I can as I enter the job field.
 
 #### Links:
-[![Email](/Email.png)Email](mailto:aott8@gatech.edu?Subject=Personal%20Website) | [![LinkedIn](/LinkedIn.png)LinkedIn](https://www.linkedin.com/in/amber-ott/) | [![Github](/Github.png)Github](https://github.com/aro126) | [![PDF Resume](/Link.png)PDF Resume](/Resume.pdf)
+##### [![Email](/Email.png)Email](mailto:aott8@gatech.edu?Subject=Personal%20Website) | [![LinkedIn](/LinkedIn.png)LinkedIn](https://www.linkedin.com/in/amber-ott/) | [![Github](/Github.png)Github](https://github.com/aro126) | [![PDF Resume](/Link.png)PDF Resume](/Resume.pdf)
 
 ---
 
