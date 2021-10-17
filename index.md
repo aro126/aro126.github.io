@@ -4,6 +4,10 @@ title: Amber Ott
 description: Computer Science Major at Georgia Tech
 ---
 
+### [HOME](/index.md) | [PROJECTS](/projects.md)
+
+---
+
 ## About Me
 
 #### Computer Science major passionate about learning as much as I can as I enter the job field.
